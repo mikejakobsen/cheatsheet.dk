@@ -1,0 +1,50 @@
+# files
+exclude:
+  - Makefile
+  - README.md
+  - Gemfile
+  - Gemfile.lock
+  - CNAME
+  - vendor
+  - _deprecated
+
+# Markdown
+highlighter: rouge
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+  parse_block_html: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: "default"
+      category: "Others"
+
+# Site info
+url: http://cheatsheet.dk
+title: Cheatsheet
+
+# Google analytics
+analytics:
+  hostname: cheatsheet.dk
+  id:
+
+category_names:
+  - Apps
+  - CLI
+  - CSS
+  - Devops
+  - Git
+  - HTML
+  - JavaScript
+  - JavaScript libraries
+  - Markup
+  - Node.js
+  - React
+  - Vim
+  - OSX
+  - DB
+  - Other
