@@ -1,4 +1,3 @@
-
 ---
 title: Illustrator
 category: Apps
