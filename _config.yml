@@ -32,6 +32,9 @@ analytics:
   hostname: cheatsheet.dk
   id:
 
+sass:
+  style: compressed
+
 category_names:
   - Apps
   - CLI
