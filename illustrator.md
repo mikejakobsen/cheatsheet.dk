@@ -4,6 +4,7 @@ category: Apps
 ---
 
 ## Tools
+
 |Key|Action                 |
 |---|-----------------------|
 |V  |Selection Tool         |

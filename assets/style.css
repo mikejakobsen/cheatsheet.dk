@@ -4,7 +4,7 @@
 
 .pages-list {
   font-size: 0.9em;
-  max-width: 800px;
+  max-width: 80%;
   margin: 60px auto;
   overflow: hidden;
 }
@@ -62,7 +62,7 @@
 }
 
 .post-headline.-cheatsheet .prelude span:before {
-  content: 'Remember..';
+  content: 'Remember when i told you about..';
 }
 
 @media (min-width: 769px) {
@@ -73,6 +73,9 @@
   }
   .post-headline.-cheatsheet .prelude span {
     display: inline-block;
+  }
+  .pages-list {
+    max-width: 800px;
   }
 }
 
