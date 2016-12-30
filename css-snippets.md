@@ -1,6 +1,6 @@
 ---
 title: CSS Snippets
-category: CSS, Vim
+category: CSS
 ---
 
 ## Properties
