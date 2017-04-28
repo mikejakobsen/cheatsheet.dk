@@ -30,7 +30,7 @@ title: Cheatsheet
 # Google analytics
 analytics:
   hostname: cheatsheet.dk
-  id:
+  id: UA-98274077-1
 
 sass:
   style: compressed

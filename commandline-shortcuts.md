@@ -5,6 +5,9 @@ category: OSX
 
 ## Commandline Shortcut
 
+Ctrl+t - Remapped to FZF
+Ctrl+r - Remapped to FZF
+
 | Key/Command | Description |
 | ----------- | ----------- |
 | Ctrl + A   | Go to the beginning of the line you are currently typing on.  This also works for most text input fields system wide.  Netbeans being one exception |
