@@ -1,5 +1,5 @@
 ---
-title: NMap command
+title: NMap
 category: Hacking
 ---
 
