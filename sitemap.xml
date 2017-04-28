@@ -1,0 +1,625 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+      xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+      xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+      xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+            http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+<!-- created with Free Online Sitemap Generator www.xml-sitemaps.com -->
+
+<url>
+  <loc>http://cheatsheet.dk/</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/.</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/atom.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/illustrator.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/photoshop.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/sketch.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/sublime-text.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/weechat.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/animated_gif.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/cron.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/curl.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/ffmpeg.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/find.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/httpie.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/man.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/ncftp.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/rename.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/rsync.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/sed.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/sh-pipes.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/sh.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/zsh.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/css-animation.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/css-antialias.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/css-background.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/css-flexbox.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/css-font.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/css-selectors.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/css-snippets.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/css-system-font-stack.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/css.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/sass.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/stylus.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/awscli.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/docker-compose.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/docker.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/dockerfile.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/heroku.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/vagrant.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/vagrantfile.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/gh-pages.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/git-branch.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/git-extras.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/git-log-format.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/git-log.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/git-revisions.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/git.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/github.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/tig.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/applinks.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/html-css.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/html-input.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/html-meta.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/html-microformats.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/html.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/canvas.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/dom-range.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/dom-selection.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/es6.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/javascript-workers.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/js-appcache.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/js-array.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/js-date.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/js-fetch.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/jsdoc.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/npm.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/promise.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/101.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/angularjs.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/awesome-redux.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/blessed.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/bluebird.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/bower-api.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/browser-sync.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/browserify.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/chai.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/commander-js.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/deku-v1.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/deku.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/eslint.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/expectjs.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/express.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/gremlins.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/gulp.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/handlebars-js.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/immutable-js.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/jasmine.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/jquery-cdn.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/jquery.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/js-model.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/jscoverage.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/jshint.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/lodash.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/metalsmith.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/middleman.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/minimist.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/mobx.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/mocha-blanket.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/mocha-html.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/mocha-tdd.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/mocha.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/modella.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/modernizr.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/moment.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/nock.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/nopt.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/parsimmon.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/qjs.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/qunit.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/ractive.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/shelljs.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/sinon-chai.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/sinon.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/spine.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/superagent.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/tape.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/underscore-string.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/virtual-dom.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/vows.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/vue.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/webpack.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/weinre.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/yarn.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/kramdown.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/markdown.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/tomdoc.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/yaml.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/nodejs-assert.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/nodejs-fs.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/nodejs-path.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/nodejs-process.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/nodejs.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/package.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/flux.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/react-router.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/react.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/redux.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/emmet.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/projectionist.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/remember.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/tabular.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/text-object.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/vim-digraphs.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/vim-easyalign.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/vim-help.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/vim-unite.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/vim.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/vimscript-functions.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/vimscript-snippets.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/vimscript.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/commandline-shortcuts.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/osx.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/sql-join.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+<url>
+  <loc>http://cheatsheet.dk/datetime.html</loc>
+  <lastmod>2017-04-28T22:46:15+00:00</lastmod>
+</url>
+</urlset>
